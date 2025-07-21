@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 .pyc
 /labs/jupyter-notebooks/__pycache__/
+/labs/jupyter-notebooks/utils/__pycache__/
